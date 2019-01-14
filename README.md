@@ -12,3 +12,9 @@ Some notable features:
 * Show the cdkey pbguid (superusefull for clanbase ecc...)
 * Hide the last 13 character of the cdkey until you press shift to reveal them
 * Inject the cdkey whitout close the game (you can insta rejoin a server after you have been banned)
+
+## some images
+
+![image](/img1.png)
+![image](/img2.png)
+![image](/img3.png)
